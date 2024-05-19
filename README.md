@@ -1,4 +1,5 @@
-# 👋 OI, chamo-me Leon - Desenvolvedor Full Stack
+# 👋 OI, chamo-me Leon Mendonça 
+| Desenvolvedor Full Stack ciente de UI & UX e Modelagem de Dados | | React.js | Node.js | MySQL | MongoDB | | Conhecimento intermediário de inglês e cursando o Inglês Avançado | | Transformando Ideias em Realidade |
 
 <picture>
   <source
@@ -43,6 +44,16 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </section>
+
+# 🧾 Sobre mim
+
+<p>Desenvolvedor Full Stack ciente de UI & UX e Modelagem de Dados | | React.js | Node.js | MySQL | MongoDB | | Conhecimento intermediário de inglês e cursando o Inglês Avançado |
+
+Autodidata, apaixonado por programação e transformando ideias em realidade.
+
+Aos 15 anos comecei a fazer curso livre no Sebrae de Comunicação, Relacionamento com Clientes e Marketing. Além dele, fiz curso na Fundação Bradesco de Educação Financeira; Controle de Impulso e Manejo de Raiva, Vergonha e Inveja; e Finanças Pessoais.
+
+Dos 16 a 17 anos comecei vendo conteúdos de programação, pratiquei no MIMO , SOLOLEARN , FREECODECAMP, playlists de projetos no Youtube , fiz cursos no Senac: Informática Básica, Logica de Programação, Programador Web, e BOOTCAMP na DIO .Neste intervalo fiz cursos de Inglês Básico, Inglês Intermediário e Inglês Avançado no Senac.</p>
 <!---
 CrazyAsura/CrazyAsura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
